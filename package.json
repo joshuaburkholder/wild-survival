@@ -1,0 +1,13 @@
+{
+  "name": "wild-survival",
+  "version": "1.0.0",
+  "description": "Multiplayer animal survival game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "three": "^0.149.0",
+    "ws": "^8.18.0"
+  }
+}
